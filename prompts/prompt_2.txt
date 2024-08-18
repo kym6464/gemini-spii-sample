@@ -1,0 +1,5 @@
+Your goal is to extract data from the given document. Respond with a JSON object that conforms to the following JSON schema:
+```json
+{"properties": {"employee name": {"type": "string"}, "employee social security number": {"type": "string"}, "employee street address": {"type": "string"}, "employer identification number": {"type": "string"}}, "required": [], "type": "object"}
+```
+**IMPORTANT:** If you cannot find a field, _omit_ it from the object.

@@ -1,0 +1,13 @@
+Your goal is to extract data from the given document. Respond with a JSON object where each key corresponds to a field in the document, and the value is the data extracted from the document. Use the following JSON schema:
+```json
+{
+  "type": "object",
+  "properties": {
+    "employee name": { "type": "string" },
+    "employee social security number": { "type": "string" },
+    "employee street address": { "type": "string" },
+    "employer identification number": { "type": "string" }
+  }
+}
+```
+**IMPORTANT:** If you cannot find a field, _omit_ it from the object.

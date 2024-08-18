@@ -1,0 +1,94 @@
+[
+  {
+    "candidates": [
+      {
+        "content": {
+          "role" : [                   ], 
+          "parts": [ { "text": "{\"" } ]
+        }
+      }
+    ], 
+    "usageMetadata": { "promptTokenCount": 407, "candidatesTokenCount": 1, "totalTokenCount": 408 }
+  }, 
+  {
+    "candidates": [
+      {
+        "content": {
+          "role" : [                                                                                               ], 
+          "parts": [ { "text": "employee name\": \"Jeffrey Hoffman\", \"employee social security number\": \"62" } ]
+        }, 
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH", 
+            "probability": "NEGLIGIBLE", 
+            "probabilityScore": 0.061767578, 
+            "severity": "HARM_SEVERITY_LOW", 
+            "severityScore": 0.20800781
+          }, 
+          {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT", 
+            "probability": "HIGH", 
+            "probabilityScore": 0.94921875, 
+            "severity": "HARM_SEVERITY_MEDIUM", 
+            "severityScore": 0.359375
+          }, 
+          {
+            "category": "HARM_CATEGORY_HARASSMENT", 
+            "probability": "NEGLIGIBLE", 
+            "probabilityScore": 0.05834961, 
+            "severity": "HARM_SEVERITY_NEGLIGIBLE", 
+            "severityScore": 0.11425781
+          }, 
+          {
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", 
+            "probability": "NEGLIGIBLE", 
+            "probabilityScore": 0.08642578, 
+            "severity": "HARM_SEVERITY_NEGLIGIBLE", 
+            "severityScore": 0.044677734
+          }
+        ]
+      }
+    ], 
+    "usageMetadata": { "promptTokenCount": 407, "candidatesTokenCount": 17, "totalTokenCount": 424 }
+  }, 
+  {
+    "candidates": [
+      {
+        "finishReason": "SPII", 
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH", 
+            "probability": "NEGLIGIBLE", 
+            "probabilityScore": 0.072753906, 
+            "severity": "HARM_SEVERITY_LOW", 
+            "severityScore": 0.21972656
+          }, 
+          {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT", 
+            "probability": "HIGH", 
+            "blocked": true, 
+            "probabilityScore": 0.9609375, 
+            "severity": "HARM_SEVERITY_MEDIUM", 
+            "severityScore": 0.33984375
+          }, 
+          {
+            "category": "HARM_CATEGORY_HARASSMENT", 
+            "probability": "NEGLIGIBLE", 
+            "probabilityScore": 0.061035156, 
+            "severity": "HARM_SEVERITY_NEGLIGIBLE", 
+            "severityScore": 0.12011719
+          }, 
+          {
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", 
+            "probability": "NEGLIGIBLE", 
+            "probabilityScore": 0.08154297, 
+            "severity": "HARM_SEVERITY_NEGLIGIBLE", 
+            "severityScore": 0.03515625
+          }
+        ], 
+        "avgLogprobs": "NaN"
+      }
+    ], 
+    "usageMetadata": { "promptTokenCount": 407, "candidatesTokenCount": 17, "totalTokenCount": 424 }
+  }
+]

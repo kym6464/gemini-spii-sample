@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "employee name": { "type": "string" },
+    "employee social security number": { "type": "string" },
+    "employee street address": { "type": "string" },
+    "employer identification number": { "type": "string" }
+  }
+}

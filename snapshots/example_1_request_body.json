@@ -1,0 +1,16 @@
+{
+  "contents": {
+    "role": "user",
+    "parts": [
+      {
+        "inlineData": {
+          "mimeType": "image/jpeg",
+          "data": "/9j/4AAQSk..."
+        }
+      },
+      {
+        "text": "Your goal is to extract data from the given document. Respond with a JSON object where each key corresponds to a field in the document, and the value is the data extracted from the document. Use the following JSON schema:\n```json\n{\n  \"type\": \"object\",\n  \"properties\": {\n    \"employee name\": { \"type\": \"string\" },\n    \"employee social security number\": { \"type\": \"string\" },\n    \"employee street address\": { \"type\": \"string\" },\n    \"employer identification number\": { \"type\": \"string\" }\n  }\n}\n```\n**IMPORTANT:** If you cannot find a field, _omit_ it from the object."
+      }
+    ]
+  }
+}

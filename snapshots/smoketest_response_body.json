@@ -1,0 +1,336 @@
+[
+  {
+    "candidates": [
+      {
+        "content": {
+          "role": [],
+          "parts": [{ "text": "Here" }]
+        }
+      }
+    ]
+  },
+  {
+    "candidates": [
+      {
+        "content": {
+          "role": "model",
+          "parts": [
+            {
+              "text": " are some names for a flower shop that specializes in selling bouquets of dried flowers:"
+            }
+          ]
+        },
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.07470703,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.046142578
+          },
+          {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.08642578,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.071777344
+          },
+          {
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.12109375,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.032470703
+          },
+          {
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.21582031,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.15917969
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "candidates": [
+      {
+        "content": {
+          "role": [],
+          "parts": [
+            {
+              "text": "\n\n**Elegant & Evocative:**\n\n* The Last Bloom\n* Ever"
+            }
+          ]
+        },
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.07080078,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.03564453
+          },
+          {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.08642578,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.091308594
+          },
+          {
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.09423828,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.03466797
+          },
+          {
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.26367188,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.13574219
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "candidates": [
+      {
+        "content": {
+          "role": "model",
+          "parts": [
+            {
+              "text": "lasting Blooms\n* Timeless Petals\n* Faded Glory\n* The Dried Flower Atelier\n* The Botanical Library \n* Whisper & Wild\n* The"
+            }
+          ]
+        },
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.06933594,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.036132813
+          },
+          {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.08251953,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.078125
+          },
+          {
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.083984375,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.03173828
+          },
+          {
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.30273438,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.12792969
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "candidates": [
+      {
+        "content": {
+          "role": "model",
+          "parts": [
+            {
+              "text": " Golden Hour Floral \n* Ephemeral Beauty\n* Vintage Bloom Co.\n\n**Modern & Playful:**\n\n* Dried & True\n* Bloom After Bloom"
+            }
+          ]
+        },
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.06933594,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.041992188
+          },
+          {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.061035156,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.060058594
+          },
+          {
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.08642578,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.03564453
+          },
+          {
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.31445313,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.14257813
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "candidates": [
+      {
+        "content": {
+          "role": "model",
+          "parts": [
+            {
+              "text": "\n* The Undying Flower\n* Forever Flowers\n* The Dried Bouquet Bar\n* Petal & Papyrus \n* Bloom Outside the Box\n* Dusty Hues & Petals\n\n**Location Specific:** (If applicable)\n\n* ["
+            }
+          ]
+        },
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.06640625,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.04663086
+          },
+          {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.061767578,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.059326172
+          },
+          {
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.07714844,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.03564453
+          },
+          {
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.26953125,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.1484375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "candidates": [
+      {
+        "content": {
+          "role": "model",
+          "parts": [
+            {
+              "text": "Your Town/City] Dried Flowers\n* The [Landmark] Flower Market\n* [Your Name]'s Dried Floral Design\n\n**Tips for Choosing the Best Name:**\n\n* **Keep it short and memorable.**\n* **Make sure"
+            }
+          ]
+        },
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.068359375,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.048828125
+          },
+          {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.03173828,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.07910156
+          },
+          {
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.08251953,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.03857422
+          },
+          {
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.18164063,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.13671875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "candidates": [
+      {
+        "content": {
+          "role": "model",
+          "parts": [
+            {
+              "text": " it's easy to pronounce and spell.**\n* **Consider your target audience.** \n* **Check for available domain names and social media handles.**\n\nI hope these suggestions inspire you to find the perfect name for your dried flower shop! \n"
+            }
+          ]
+        },
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.072753906,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.06542969
+          },
+          {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.0390625,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.07714844
+          },
+          {
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.080566406,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.041992188
+          },
+          {
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.18457031,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.17089844
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "candidates": [
+      {
+        "content": {
+          "role": [],
+          "parts": [{ "text": "" }]
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 19,
+      "candidatesTokenCount": 244,
+      "totalTokenCount": 263
+    }
+  }
+]
